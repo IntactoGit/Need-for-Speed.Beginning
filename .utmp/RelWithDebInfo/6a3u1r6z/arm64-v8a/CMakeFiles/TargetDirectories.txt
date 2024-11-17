@@ -1,0 +1,5 @@
+C:/RiderProjects/CreateCarModel1/.utmp/RelWithDebInfo/6a3u1r6z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/RiderProjects/CreateCarModel1/.utmp/RelWithDebInfo/6a3u1r6z/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/RiderProjects/CreateCarModel1/.utmp/RelWithDebInfo/6a3u1r6z/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/RiderProjects/CreateCarModel1/.utmp/RelWithDebInfo/6a3u1r6z/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/RiderProjects/CreateCarModel1/.utmp/RelWithDebInfo/6a3u1r6z/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

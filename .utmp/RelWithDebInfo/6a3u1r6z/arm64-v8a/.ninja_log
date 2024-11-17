@@ -1,0 +1,10 @@
+# ninja log v5
+14	1360	7533948390372574	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d0b0e251bdc63a0c
+5	1436	7533948391151113	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bfb6f8b3763e9f16
+35	1514	7533948391918716	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6e74e766c86dce68
+30	1548	7533948392248296	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2c96698056d08802
+24	1564	7533948392460216	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	594924d43874346f
+9	1614	7533948392947126	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c77286d320e79e79
+18	1814	7533948394961546	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	70c790ac8041f2ac
+0	1995	7533948396750447	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	688062381e718d84
+1995	2105	7533948397822932	C:/RiderProjects/CreateCarModel1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a3u1r6z/obj/arm64-v8a/libgame.so	53a65a72852a038b
